@@ -14,11 +14,11 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-GOOGLE_API_KEY = "AIzaSyCddazqqiW2E_4NvN7izISDWxAPhicwdIA"
+GOOGLE_API_KEY = "Enter your key"
 
 def get_few_shot_db_chain():
     db_user = "root"
-    db_password = "alankrita24parmeshwar"
+    db_password = "enter_password"
     db_host = "localhost"
     db_name = "books_database"
 
