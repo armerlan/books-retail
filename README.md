@@ -19,7 +19,27 @@ To increase the accessibility of the database, this application will take querie
 
 Additionally, few shot learning has been implemented for enhancement in query results.
 
-## Installation
+## Installation for Windows
+
+1. Ensure that you have MySQL Workbench and Server installed on your device. See https://dev.mysql.com/downloads/installer/
+
+2. Obtain your Google API key from https://aistudio.google.com/app/apikey
+
+3. Clone this GitHub repository using the command,
+```
+git clone https://github.com/armerlan/books-retail.git
+```
+
+4. Go to the project directory,
+```
+cd books-retail
+```
+
+5. Install the required packages using,
+```
+pip install -r requirements.txt
+```
+6. In the command prompt, execute ```streamlit run main.py```
 
 ## Execution
 
