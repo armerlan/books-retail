@@ -1,0 +1,12 @@
+langchain
+langchain_google_genai
+langchain_community
+langchain_core
+python-dotenv
+streamlit
+langchain_experimental
+mysql-connector-python
+pymysql
+sentence-transformers
+tf-keras
+chromadb
