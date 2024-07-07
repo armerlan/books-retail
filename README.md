@@ -19,7 +19,7 @@ To increase the accessibility of the database, this application will take querie
 
 Additionally, few shot learning has been implemented for enhancement in query results.
 
-## Installation for Windows
+## Installation and Execution in Windows
 
 1. Ensure that you have MySQL Workbench and Server installed on your device. See https://dev.mysql.com/downloads/installer/
 
@@ -40,8 +40,6 @@ cd books-retail
 pip install -r requirements.txt
 ```
 6. In the command prompt, execute ```streamlit run main.py```
-
-## Execution
 
 ## Project Structure
 
